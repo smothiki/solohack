@@ -4,7 +4,7 @@ models/
 face2face/face_embeddings
 
 # ignore the test_media folder
-test/test_media/
+# test/test_media/
 
 
 # Ignore virtual environment folder
@@ -189,3 +189,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea
 .github/
+ffmpeg/
